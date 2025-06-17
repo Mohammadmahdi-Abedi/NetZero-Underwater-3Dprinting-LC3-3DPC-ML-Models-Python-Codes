@@ -1,6 +1,6 @@
 # NetZero-Underwater-3Dprinting-LC3-3DPC-ML-Models-Python-Codes
 
-This repository contains supplementary appendix figures of Python code used in the scientific article on **Net-Zero 3D Printed Concrete (LC³-3DPC) for Underwater Construction**, including all machine learning models developed to predict compressive strength, flexural strength, and yield stress from calcined clay mix compositions.
+This repository contains supplementary appendix figures of Python code used in the scientific article on **Next-Generation Net-Zero Composite for Underwater 3D Printing Construction: Hybrid Machine Learning Optimized LC³ with Recycled Rubber**, including all machine learning models developed to predict compressive strength, flexural strength, and yield stress from calcined clay mix compositions.
 
 ---
 
